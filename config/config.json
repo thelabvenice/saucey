@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x68a1b9E918ae9E8ebD1982544377232329500B01",
+  "SCAN_LINK": "https://etherscan.io/address/0x68a1b9e918ae9e8ebd1982544377232329500b01",
+  "NETWORK": {
+    "NAME": "Ethererum",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Saucey Doodles",
+  "SYMBOL": "SAUCEY",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 5000000000000000,
+  "DISPLAY_COST": 0.005,
+  "GAS_LIMIT": 85000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/saucey-doodles",
+  "SHOW_BACKGROUND":true
+}
